@@ -8,5 +8,3 @@ class Ball:
         self.mass = mass
         self.radius = radius
         self.colour = colour
-        
-        
